@@ -5,6 +5,24 @@ in python we don't declare the type.
 we just assign the value and the python itself adjusts the datatype 
 we can see that in below examples...
 
+-----Index-----
+
+1. Basic Variable Creation
+2. Changing Variable Value
+3. Changing Variable Data Type
+4. Dynamic Typing
+5. Multiple Variable Assignment
+6. One Value to Multiple Variables
+7. Swapping Variables
+8. Swapping Using Temporary Variable
+9. Swapping String Variables
+10. Printing Multiple Variables
+11. Printing Variables with Text
+12. Using f-Strings
+13. Checking Data Type (`type()`)
+14. Boolean Data Type
+15. Type Conversion (`int()`, `float()`, `str()`)
+
 """
 # 1. basic intialization of variable
 age = 20
