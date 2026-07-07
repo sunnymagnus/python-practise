@@ -16,7 +16,7 @@ print(f"number :{number}")
 # collecting detailss of a stutendt 
 
 print("-- enter student details--")
-sname = input("enter name of the student :")
+sname = input("enter name of student :")
 rnum  = int(input("enter mobile umber       :")) # mobile number can be a string 
 fname = input("enter mothers name        :")
 mname = input("enter your mother name    :")
