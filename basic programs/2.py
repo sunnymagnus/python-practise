@@ -96,7 +96,7 @@ print(name, age)
 # 11. printing variables with text
 
 name = "Sunny"
-print("My name is", name)
+print("Name is", name)
 
 # 12. using f-string method
 phone = "17 pro"
