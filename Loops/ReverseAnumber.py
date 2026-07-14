@@ -10,4 +10,3 @@ while n>0 :
     rev=rev*10+r
 
 print(f"The reverse of {num} is {rev}")
-
